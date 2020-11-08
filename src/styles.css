@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(15, 15, 15);
+}
+.container {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  display: flex;
+  color: rgb(168, 127, 13);
+  font-size: 40px;
+  margin: auto;
+}
